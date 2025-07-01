@@ -1,0 +1,18 @@
+2025-07-01 10:00:00 INFO Starting system check...
+2025-07-01 10:00:01 INFO System running smoothly.
+2025-07-01 10:00:02 WARNING Disk usage at 80%.
+2025-07-01 10:00:03 INFO CPU temperature normal.
+2025-07-01 10:00:04 ERROR Failed to load configuration file.
+2025-07-01 10:00:05 INFO Attempting recovery...
+2025-07-01 10:00:06 INFO Recovery successful.
+2025-07-01 10:00:07 ERROR Network timeout occurred.
+2025-07-01 10:00:08 INFO System back online.
+2025-07-01 10:00:09 INFO Monitoring active processes.
+2025-07-01 10:00:10 ERROR Sensor data corrupted.
+2025-07-01 10:00:11 INFO System health: OK.
+2025-07-01 10:00:12 WARNING Memory usage high.
+2025-07-01 10:00:13 INFO Starting backup process...
+2025-07-01 10:00:14 ERROR Backup failed due to permission issue.
+2025-07-01 10:00:15 INFO Retrying backup...
+2025-07-01 10:00:16 INFO Backup completed successfully.
+2025-07-01 10:00:17 INFO System check complete.
